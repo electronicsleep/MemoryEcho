@@ -12,3 +12,12 @@ The crew and idea started in California with plans of collaborating to making cr
 http://m3cho.com
 
 m3cho.com is a platform to share music with friends and fans! Working to be the most creative and inspiring way for musicians to share music and provide an art experience. 
+
+
+# IDEAS
+
+# TODO
+
+# FUTURE
+
+# GOALS
