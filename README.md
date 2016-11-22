@@ -18,7 +18,7 @@ M3cho.com is a platform to share music and art with friends and fans! Working to
 ## Forum:
 http://forum.memoryecho.com/forum/
 
-Updates on high quality bay area shows
+Updates on interesting bay area shows
 
 
 ## Ideas:
