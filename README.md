@@ -17,13 +17,17 @@ m3cho.com is a platform to share music with friends and fans! Working to be the 
 ## IDEAS
  - Add art as a component to m3cho
  - Have a public songs area with comments
+ - Unique way to share music and art
 
 ## TODO
  - Release split records with multiple artists
+ - Create unique show idea at various places in the bay area
  - Have monthly get togthers to discuss new ideas
+ - Have coding days and more colaboration days
 
 ## FUTURE
- - Plan a campout or concert
+ - Have small campout with friends
+ - Plan a mid size campout or concert
  - Bring an artist from out of state
  - Bring an artist from out of the country
 
