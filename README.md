@@ -11,13 +11,17 @@ The crew and idea started in California with plans of collaborating to making cr
 
 http://m3cho.com
 
-m3cho.com is a platform to share music with friends and fans! Working to be the most creative and inspiring way for musicians to share music and provide an art experience. 
+M3cho.com is a platform to share music and art with friends and fans! Working to be the most creative and inspiring way for musicians to share music and provide an art experience. 
 
+http://forum.memoryecho.com/forum/
+
+Updates on high quality bay area shows
 
 ## IDEAS
  - Add art as a component to m3cho
  - Have a public songs area with comments
  - Unique way to share music and art
+ - Way to organize compilations for MemoryEcho
 
 ## TODO
  - Release split records with multiple artists
