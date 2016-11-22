@@ -21,9 +21,9 @@ Updates on high quality bay area shows
 
 ## Ideas:
  - Add art as a component to m3cho
- - Have a public songs area with comments
- - Unique way to share music and art
- - Way to organize compilations for MemoryEcho
+ - Have a public songs area with comments - this is mostly already done
+ - Visual and immersive way to share music and art - what the 90s should have delivered...
+ - Way to organize compilations for MemoryEcho - tagging done which allows
 
 ## Todo:
  - Release split records with multiple artists
