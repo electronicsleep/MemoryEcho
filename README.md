@@ -22,7 +22,7 @@ Updates on interesting bay area shows
 
 
 ## Ideas:
- - Add art as a component to m3cho
+ - Add art as a component to m3cho - in progress...
  - Have a public songs area with comments - this is mostly already done
  - Visual and immersive way to share music and art - what the 90s should have delivered...
  - Way to organize compilations for MemoryEcho - tagging done which allows
