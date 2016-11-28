@@ -26,16 +26,19 @@ Updates on interesting bay area shows
  - Have a public songs area with comments - this is mostly already done
  - Visual and immersive way to share music and art - what the 90s should have delivered...
  - Way to organize compilations for MemoryEcho - tagging done which allows
+ - Please send more ideas or suggestions
 
 ## Todo:
  - Release split records with multiple artists
  - Create unique show idea at various places in the bay area
  - Have monthly get togthers to discuss new ideas
  - Have coding days and more colaboration days
+ - Please send what you think should be done
 
 ## Future:
  - Have small campout with friends
  - Plan a mid size campout or concert
+ - Plan regular meetings to discuss ideas and things to do
  - Bring an artist from out of state
  - Bring an artist from out of the country
 
