@@ -15,13 +15,8 @@ http://m3cho.com
 
 M3cho.com is a platform to share music and art with friends and fans! Working to be the most creative and inspiring way for musicians to share music and provide an art experience. 
 
-## Resources:
+## Forum / Resources:
 http://www.memoryecho.com/forum
-## Forum:
-http://forum.memoryecho.com/forum
-
-Updates on interesting bay area shows
-
 
 ## Ideas:
  - Add art as a component to m3cho - in progress...
