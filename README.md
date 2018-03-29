@@ -2,7 +2,7 @@ MemoryEcho
 ==========
 http://www.memoryecho.com
 
-## Join:
+## Contact:
 http://www.memoryecho.com/contact
 
 ## What is Memory Echo:
