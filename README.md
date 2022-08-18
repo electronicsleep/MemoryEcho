@@ -2,8 +2,6 @@ MemoryEcho
 ==========
 http://www.memoryecho.com
 
-http://m3cho.com
-
 ## Contact:
 http://www.memoryecho.com/contact
 
